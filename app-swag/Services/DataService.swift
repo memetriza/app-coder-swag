@@ -25,6 +25,9 @@ class DataService {
         Product(title: "Devslopes Logo Hoodie D.Gray", price: "99 ₺", imageName: "hoodie01.png"),
         Product(title: "Devslopes Logo Hoodie Red", price: "99 ₺", imageName: "hoodie02.png"),
         Product(title: "Devslopes Logo Hoodie Grey", price: "99 ₺", imageName: "hoodie03.png"),
+        Product(title: "Devslopes Logo Hoodie Grey", price: "99 ₺", imageName: "hoodie03.png"),
+        Product(title: "Devslopes Logo Hoodie Grey", price: "99 ₺", imageName: "hoodie03.png"),
+        Product(title: "Devslopes Logo Hoodie Grey", price: "99 ₺", imageName: "hoodie03.png"),
         Product(title: "Devslopes Logo Hoodie Black", price: "99 ₺", imageName: "hoodie04.png")
     ]
     
@@ -33,7 +36,8 @@ class DataService {
         Product(title: "Devslopes Logo Shirt Black", price: "69 ₺", imageName: "shirt01.png"),
         Product(title: "Devslopes Badge Shirt Light Grey", price: "79 ₺", imageName: "shirt02.png"),
         Product(title: "Hustle Delegate Grey", price: "89 ₺", imageName: "shirt03.png"),
-        Product(title: "Kickflip Studios Black", price: "59 ₺", imageName: "shirt04.png")
+        Product(title: "Kickflip Studios Black", price: "59 ₺", imageName: "shirt04.png"),
+        Product(title: "Kickflip Studios Black", price: "59 ₺", imageName: "shirt05.png")
         
     ]
     private let digitalGoods = [Product]()
